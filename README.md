@@ -1,19 +1,17 @@
 # Overview
-Welcome to the official GitHub Wiki for HomeHub Tech! This wiki is a central repository detailing information for our products, process, and more!
+Welcome to the mini GitHub Wiki for HomeHub Tech! This wiki is designed to serve as a quick reference for our lightning round.
 
 # Purpose
 This Wiki is designed to:
 
-* Share our vision for smart homes as well as what inspired us.
-* Provide transparency regarding our values and ethics.
-* Give insight into our marketing plans.
-* Introduce our team.
-* Describe our long-term strategy.
+* Briefly cover lightning round topics as required by our class.
+* Will discuss specific points from each item.
 
 # Getting Started
 To get the most out of this Wiki:
 
-* Click on the Wiki link at the top or click [here](https://github.com/HomeHubTech/.github/wiki) !
+* If you aren't a group 3 member doing a flash presentation, you don't want to be here!
+* Click on the Wiki link at the top or click [here](https://github.com/HomeHubTech/.github/wiki) to go to the actual wiki!
 * Contribute or provide feedback!
 
 # About HomeHub Tech
